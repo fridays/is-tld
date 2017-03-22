@@ -1,6 +1,6 @@
 {
   "name": "is-tld",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns true if a value is a top-level domain",
   "repository": "fridays/is-tld",
   "author": "fridays",
