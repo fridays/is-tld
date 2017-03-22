@@ -1,6 +1,6 @@
 # is-tld
 
-[![Build Status](https://travis-ci.org/fridays/is-tld.svg?branch=master)](https://travis-ci.org/fridays/is-tld) [![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=1.0.1&x2=0)](https://www.npmjs.com/package/next-routes)
+[![Build Status](https://travis-ci.org/fridays/is-tld.svg?branch=master)](https://travis-ci.org/fridays/is-tld) [![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&type=6&v=1.0.2&x2=0)](https://www.npmjs.com/package/is-tld)
 
 Returns `true` if a value is a top-level domain
 
